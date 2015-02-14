@@ -1,7 +1,11 @@
 #!/usr/bin/python
 
 """
-Simple HTTP Server
+Servidor HTTP de URL aleatorias
+Jesus Alberto Saiz Cano
+SAT
+Febrero 2015
+
 """
 
 import socket
